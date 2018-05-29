@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/all_actions_RNN.ckpt"
-all_model_checkpoint_paths: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/all_actions_RNN.ckpt"
+model_checkpoint_path: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/a"
+all_model_checkpoint_paths: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/a"
