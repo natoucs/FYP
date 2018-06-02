@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/group_RNN/Object"
-all_model_checkpoint_paths: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/group_RNN/Object"
+model_checkpoint_path: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/group_RNN/Motion"
+all_model_checkpoint_paths: "/home/nathan/Documents/FYP_code/LSTM1_guillermo/saved_sessions/group_RNN/Motion"
